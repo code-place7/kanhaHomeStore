@@ -113,16 +113,16 @@
 
 <div align="center">
   <p>
-    <img src="./public/build/assets/images/kanhahomestore%20(1).png" alt="Home Page" width="250">
-    <img src="./public/build/assets/images/kanhahomestore%20(2).png" alt="Product Catalog" width="250">
+    <img src="./resources/images/kanhahomestore%20(1).png" alt="Home Page" width="250">
+    <img src="./resources/images/kanhahomestore%20(2).png" alt="Product Catalog" width="250">
   </p>
   <p>
-    <img src="./public/build/assets/images/kanhahomestore3.png" alt="Product Details" width="250">
-    <img src="./public/build/assets/images/kanhahomestore4.png" alt="Shopping Cart" width="250">
+    <img src="./resources/images/kanhahomestore3.png" alt="Product Details" width="250">
+    <img src="./resources/images/kanhahomestore4.png" alt="Shopping Cart" width="250">
   </p>
   <p>
-    <img src="./public/build/assets/images/kanhahomestore5.png" alt="Product Details" width="250">
-    <img src="./public/build/assets/images/kanhahomestore7.png" alt="Shopping Cart" width="250">
+    <img src="./resources/images/kanhahomestore5.png" alt="Product Details" width="250">
+    <img src="./resources/images/kanhahomestore7.png" alt="Shopping Cart" width="250">
   </p>
 </div>
 
