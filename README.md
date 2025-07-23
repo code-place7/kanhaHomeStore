@@ -113,16 +113,16 @@
 
 <div align="center">
   <p>
-    <img src="public/build/assets/images/kanhahomestore (1).png" alt="Home Page" width="400">
-    <img src="public/build/assets/images/kanhahomestore (2).png" alt="Product Catalog" width="400">
+    <img src="./public/build/assets/images/kanhahomestore%20(1).png" alt="Home Page" width="250">
+    <img src="./public/build/assets/images/kanhahomestore%20(2).png" alt="Product Catalog" width="250">
   </p>
   <p>
-    <img src="public/build/assets/images/kanhahomestore3.png" alt="Product Details" width="400">
-    <img src="public/build/assets/images/kanhahomestore4.png" alt="Shopping Cart" width="400">
+    <img src="./public/build/assets/images/kanhahomestore3.png" alt="Product Details" width="250">
+    <img src="./public/build/assets/images/kanhahomestore4.png" alt="Shopping Cart" width="250">
   </p>
   <p>
-    <img src="public/build/assets/images/kanhahomestore5.png" alt="Product Details" width="400">
-    <img src="public/build/assets/images/kanhahomestore7.png" alt="Shopping Cart" width="400">
+    <img src="./public/build/assets/images/kanhahomestore5.png" alt="Product Details" width="250">
+    <img src="./public/build/assets/images/kanhahomestore7.png" alt="Shopping Cart" width="250">
   </p>
 </div>
 
@@ -139,15 +139,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact
-
-For any inquiries or support, please contact us at:
-
--   **Email**: support@kanhahomestore.com
--   **Website**: [www.kanhahomestore.com](https://www.kanhahomestore.com)
-
----
 
 <div align="center">
   
