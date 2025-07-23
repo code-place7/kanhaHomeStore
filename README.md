@@ -11,10 +11,6 @@
 
 </div>
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Kanha+Home+Store" alt="Kanha Home Store Banner" width="800">
-</p>
-
 ## ✨ Overview
 
 **Kanha Home Store** is a modern e-commerce platform specializing in premium home furnishings and decor. Our platform offers a seamless shopping experience with a curated collection of high-quality products to transform any living space.
@@ -117,16 +113,16 @@
 
 <div align="center">
   <p>
-    <img src="build/assets/images/kanhahomestore.png" alt="Home Page" width="400">
-    <img src="build/assets/images/kanhahomestore2.png" alt="Product Catalog" width="400">
+    <img src="public/build/assets/images/kanhahomestore (1).png" alt="Home Page" width="400">
+    <img src="public/build/assets/images/kanhahomestore (2).png" alt="Product Catalog" width="400">
   </p>
   <p>
-    <img src="build/assets/images/kanhahomestore3.png" alt="Product Details" width="400">
-    <img src="build/assets/images/kanhahomestore4.png" alt="Shopping Cart" width="400">
+    <img src="public/build/assets/images/kanhahomestore3.png" alt="Product Details" width="400">
+    <img src="public/build/assets/images/kanhahomestore4.png" alt="Shopping Cart" width="400">
   </p>
   <p>
-    <img src="build/assets/images/kanhahomestore5.png" alt="Product Details" width="400">
-    <img src="build/assets/images/kanhahomestore7.png" alt="Shopping Cart" width="400">
+    <img src="public/build/assets/images/kanhahomestore5.png" alt="Product Details" width="400">
+    <img src="public/build/assets/images/kanhahomestore7.png" alt="Shopping Cart" width="400">
   </p>
 </div>
 
